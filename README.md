@@ -1,7 +1,7 @@
 <h1>
  🌀 Hacktoberfest2020 ⭐️
 </h1>
-<!--> by Jugal Bhatt<-->
+<!-- by Jugal Bhatt -->
 Get ready for Hacktoberfest , check out all our repos and make your pull request here 
 <br> 
 
