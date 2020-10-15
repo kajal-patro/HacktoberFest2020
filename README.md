@@ -1,5 +1,5 @@
 <h1>
- 🌀 Hacktoberfest2020 ⭐️
+ 🌀 How to Hacktoberfest2020 ⭐️
 </h1>
 <!-- by Jugal Bhatt. Demo for Gaurav Sharma -->
 Get ready for Hacktoberfest , check out all our repos and make your pull request here 
@@ -8,7 +8,7 @@ Get ready for Hacktoberfest , check out all our repos and make your pull request
 <img src="https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540">
 
 <h2>
- What is Hacktoberfest2020 😎
+ What is Hacktoberfest2020? 😎
 </h2>
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long celebration of open source code presented by Digital Ocean.
 
@@ -17,7 +17,7 @@ During the entire month of October 2020, all you have to do is contribute to any
 If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities.
 
 <h1>
-How to get Started 💥 
+How to get Started: 💥 
 </h1>
 
 Click on the link to register yourself  [Registration Here](https://hacktoberfest.digitalocean.com/)
@@ -96,7 +96,7 @@ When contributing to this repository, please first discuss the change you wish t
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-If you like our Projects please leave a 🌟
+If you like our Projects please leave a 🌟. Thank You!
 
 <p align="center">
 	With :heart: by <a href="https://www.codechefvit.com" target="_blank">CodeChef-VIT</a>
