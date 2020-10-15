@@ -1,5 +1,5 @@
 <h1>
- 🌀 How to crack Hacktoberfest2020 in an fantastic way  ⭐️
+ 🌀 How to crack Hacktoberfest2020 in an amazing way for a beginner from a master  ⭐️
 </h1>
 <!-- by Jugal Bhatt. Demo for Gaurav Sharma -->
 Get ready for the  Hacktoberfest(Hack this october) , check out all our repos and make your pull request here 
@@ -22,7 +22,7 @@ How to get Started: 💥
 
 Click on the link to register yourself  [Registration Here](https://hacktoberfest.digitalocean.com/)
 
-## Why should you take part 🙌 
+## Why you should take part in hactober 🙌 
 -  Chance to contribute to open source projects 
 - Engage in greater communities 
 - Free swags and T Shirts from Digital Ocean
