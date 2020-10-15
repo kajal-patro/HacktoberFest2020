@@ -1,8 +1,8 @@
 <h1>
- 🌀 How to Hacktoberfest2020 ⭐️
+ 🌀 How to crack Hacktoberfest2020 in an fantastic way  ⭐️
 </h1>
 <!-- by Jugal Bhatt. Demo for Gaurav Sharma -->
-Get ready for Hacktoberfest , check out all our repos and make your pull request here 
+Get ready for the  Hacktoberfest(Hack this october) , check out all our repos and make your pull request here 
 <br> 
 
 <img src="https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540">
